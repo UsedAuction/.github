@@ -115,4 +115,4 @@
 
 ### ERD
 
-![중고 물품 경매 서비스 ERD.png](docs/usedAuctionERD.png)
+![중고 물품 경매 서비스 ERD.png](https://github.com/user-attachments/assets/cb11f9dd-bdf7-4668-86aa-ad0358329e24)
