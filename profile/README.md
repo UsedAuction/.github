@@ -56,11 +56,23 @@
     <th align="center">역할</th>
     <th align="center">작업 영역</th>
   </tr>
-    <tr>
+  <tr>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/123534245?v=4" width="70"></td>
     <td>배진환(<a href="https://github.com/JinhwanB" target="_blank">@JinhwanB</a>)<br>Back-End</td>
     <td align="center">팀장</td>
     <td>경매 생성 및 종료, 경매 조회 및 hot5 경매 조회, 입찰 시스템, 입찰 내역 조회, 즉시 구매, 구매 확정, 판매 및 구매 내역 조회, Q&A CRUD</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/108457670?v=4" width="70"></td>
+    <td>최인영(<a href="https://github.com/choiinyoung13" target="_blank">@choiinyoung13</a>)<br>Front-End</td>
+    <td align="center">팀원</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/156155896?v=4" width="70"></td>
+    <td>오동한(<a href="https://github.com/Oh-Donghan" target="_blank">@Oh-Donghan</a>)<br>Front-End</td>
+    <td align="center">팀원</td>
+    <td></td>
   </tr>
   <tr>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/102372626?v=4" width="70"></td>
