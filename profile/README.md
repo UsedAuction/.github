@@ -84,6 +84,8 @@
 
 <br>
 
+## 아키텍처
+
 ## FE
 
 ## BE
@@ -110,8 +112,6 @@
 <img src="https://img.shields.io/badge/awselasticloadbalancing-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white">
 <img src="https://img.shields.io/badge/awssecretsmanager-DD344C?style=for-the-badge&logo=awssecretsmanager&logoColor=white">
 <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-
-### 아키텍처
 
 ### ERD
 
