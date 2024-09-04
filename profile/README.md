@@ -99,7 +99,7 @@
 
 ## 아키텍처
 
-![image](https://github.com/user-attachments/assets/e671ef38-a09e-49bf-b845-aad7198645fe)
+![image](https://github.com/user-attachments/assets/dbf4aa63-2a41-47e7-958a-785cfb67d585)
 
 ## 사용 기술
 
