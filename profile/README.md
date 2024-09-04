@@ -72,7 +72,7 @@
     <td align="center"><img src="https://avatars.githubusercontent.com/u/156155896?v=4" width="70"></td>
     <td>오동한(<a href="https://github.com/Oh-Donghan" target="_blank">@Oh-Donghan</a>)<br>Front-End</td>
     <td align="center">팀원</td>
-    <td></td>
+    <td>와이어 프레임 제작, 기본 레이아웃 구현(네비게이션바, 풋터), 메인 페이지 구현, 채팅 페이지 및 채팅 모달 구현, 경매 리스트 페이지 구현, 로그인 & 회원가입 모달 구현, 알림 & 최근 본 경매 모달 구현</td>
   </tr>
   <tr>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/102372626?v=4" width="70"></td>
