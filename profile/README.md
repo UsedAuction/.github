@@ -73,7 +73,7 @@
     <td align="center"><img src="https://avatars.githubusercontent.com/u/156155896?v=4" width="70"></td>
     <td>오동한(<a href="https://github.com/Oh-Donghan" target="_blank">@Oh-Donghan</a>)<br>Front-End</td>
     <td align="center">팀원</td>
-   <td></td>
+   <td>상세페이지 레이아웃 구현, 입찰하기 및 즉시구매 구현, 마이페이지 레이아웃 구현, QnA 기능 구현, 이메일, 비밀번호 변경 구현, 회원 탈퇴 구현, MSW를 이용한 목데이터 생성</td>
   </tr>
   <tr>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/102372626?v=4" width="70"></td>
