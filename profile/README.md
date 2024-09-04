@@ -102,6 +102,12 @@
 ![image](https://github.com/user-attachments/assets/e671ef38-a09e-49bf-b845-aad7198645fe)
 
 ## FE
+<br>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=typescript&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=typescript&logoColor=white">
 
 ## BE
 
