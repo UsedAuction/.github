@@ -101,17 +101,17 @@
 
 ![image](https://github.com/user-attachments/assets/e671ef38-a09e-49bf-b845-aad7198645fe)
 
-## FE
-<br>
+## 사용 기술
+
+### FE
+
 <img src="https://img.shields.io/badge/react-0088CC?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-239DAD?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/recoli-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
 <img src="https://img.shields.io/badge/tanskquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 
-## BE
-
-### 사용 기술
+### BE
 
 ![](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 <br>
@@ -134,6 +134,10 @@
 <img src="https://img.shields.io/badge/awssecretsmanager-DD344C?style=for-the-badge&logo=awssecretsmanager&logoColor=white">
 <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 
-### ERD
+## 와이어프레임
+
+[와이어프레임](https://www.figma.com/design/npI8dmNSIYbq44YcCzX44A/wireFrame?node-id=0-1&node-type=CANVAS&t=dJDa2OJIuNsm8nH0-0)
+
+## ERD
 
 ![중고 물품 경매 서비스 ERD.png](https://github.com/user-attachments/assets/cb11f9dd-bdf7-4668-86aa-ad0358329e24)
