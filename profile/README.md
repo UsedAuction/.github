@@ -98,6 +98,8 @@
 
 ## 아키텍처
 
+![image](https://github.com/user-attachments/assets/e671ef38-a09e-49bf-b845-aad7198645fe)
+
 ## FE
 
 ## BE
